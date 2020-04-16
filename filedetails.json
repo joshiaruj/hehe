@@ -1,7 +1,7 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"client
-server-poll-timeout 4
+    {"id":0,"file":"
+client
 nobind
 remote 34.91.44.183 1194 udp
 remote 34.91.44.183 1194 udp
