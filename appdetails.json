@@ -18,5 +18,6 @@
   "free":[
     {"id":0, "file":0, "city":"Europe","country":"Europe","image":"europe","ip":"34.91.44.183","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"North America","country":"United States","image":"unitedstates","ip":"35.203.105.125","active":"true","signal":"b"},
+    {"id":2, "file":2, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"35.203.105.125","active":"true","signal":"b"},
   ]
 }
