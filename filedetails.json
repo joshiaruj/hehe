@@ -1,6 +1,6 @@
 {
   "ovpn_file":[
-    {"id":0,"file":0, "
+    {"id":0,"file":"
 client
 nobind
 remote 34.91.44.183 1194 udp
@@ -119,7 +119,7 @@ bcc5f8e8abb2cc6c784d062c0f732829
 cf2fd2b6008c11bf82d337f725ff1add
 -----END OpenVPN Static key V1-----
 </tls-auth>"},
-    {"id":1,"file":1, "
+    {"id":1,"file":"
 client
 nobind
 remote 35.203.105.125 1194 udp
