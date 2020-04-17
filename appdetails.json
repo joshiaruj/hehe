@@ -4,7 +4,7 @@
     "version":"4.0",
     "title":"HP VPN 2020",
     "description":"Free VPN Android",
-    "size":"https://play.google.com/store/apps/details?id=com.hp.vpn&hl=en"
+    "size":""
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
