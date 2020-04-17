@@ -20,5 +20,7 @@
     {"id":1, "file":1, "city":"North America","country":"United States","image":"unitedstates","ip":"35.203.105.125","active":"true","signal":"b"},
     {"id":2, "file":2, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"35.193.207.229","active":"true","signal":"b"},
     {"id":3, "file":3, "city":"India","country":"India","image":"india","ip":"34.93.217.139","active":"true","signal":"a"},
+    {"id":4, "file":4, "city":"Tokyo","country":"Japan","image":"japan","ip":"34.84.185.93","active":"true","signal":"a"},
+
   ]
 }
