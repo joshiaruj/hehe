@@ -119,7 +119,7 @@ a56960d2a27e1f23c9210035a88b4e35
 4f6a9192f01a62c912934409c1347cfc
 -----END OpenVPN Static key V1-----
 </tls-auth>"},
- {"id":0,"file":"
+ {"id":1,"file":"
 client
 nobind
 remote 35.244.91.132 1194 udp
