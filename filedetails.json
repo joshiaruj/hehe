@@ -1,6 +1,7 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"
+    {"id":0,"file":"..
+setenv FORWARD_COMPATIBLE 1
 client
 nobind
 remote 35.237.92.199 1194 udp
@@ -120,6 +121,7 @@ ce86a95c3e6acb4776cabcc212b928d2
 -----END OpenVPN Static key V1-----
 </tls-auth>"},
     {"id":1,"file":"
+setenv FORWARD_COMPATIBLE 1
 client
 nobind
 remote 34.87.216.168 1194 udp
