@@ -1,7 +1,6 @@
 {
   "ovpn_file":[
     {"id":0,"file":"..
-setenv FORWARD_COMPATIBLE 1
 client
 nobind
 remote 35.237.92.199 1194 udp
