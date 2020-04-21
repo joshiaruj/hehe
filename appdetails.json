@@ -20,6 +20,8 @@
     {"id":1, "file":1, "city":"London","country":"United Kingdom","image":"unitedkingdom","ip":"35.246.120.114","active":"true","signal":"a"},
     {"id":2, "file":2, "city":"Tokyo","country":"Japan","image":"japan","ip":"34.84.165.172","active":"true","signal":"a"},
     {"id":3, "file":3, "city":"Singapore","country":"Singapore","image":"singapore","ip":"35.185.187.149","active":"true","signal":"b"},
+    {"id":4, "file":4, "city":"Sydney","country":"Australia","image":"australia","ip":"35.244.79.194","active":"true","signal":"c"},
+
 
     
    
