@@ -22,7 +22,7 @@
     {"id":3, "file":3, "city":"Singapore","country":"Singapore","image":"singapore","ip":"35.185.187.149","active":"true","signal":"b"},
     {"id":4, "file":4, "city":"Australia","country":"Australia","image":"australia","ip":"35.244.79.194","active":"true","signal":"c"},
     {"id":5, "file":5, "city":"Finland","country":"Finland","image":"finland","ip":"35.228.78.241","active":"true","signal":"b"},
-    {"id":6, "file":6, "city":"Belgium","country":"Belgium","image":"finland","ip":"34.76.151.6","active":"true","signal":"b"},
+    {"id":6, "file":6, "city":"Belgium","country":"Belgium","image":"belgium","ip":"34.76.151.6","active":"true","signal":"b"},
 
 
 
