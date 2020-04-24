@@ -22,7 +22,7 @@
     {"id":3, "file":3, "city":"Japan","country":"Japan","image":"japan","ip":"3.112.20.101","active":"true","signal":"a"},
     {"id":4, "file":4, "city":"Canada","country":"Canada","image":"canada","ip":"15.222.10.243","active":"true","signal":"b"},
     {"id":5, "file":5, "city":"Singapore","country":"Singapore","image":"singapore","ip":"54.169.72.152","active":"true","signal":"b"},
-    
+    {"id":6, "file":6, "city":"Finland","country":"Finland","image":"finland","ip":"35.228.78.241","active":"true","signal":"b"},
     
 
 
