@@ -17,7 +17,12 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"3.134.104.24","active":"true","signal":"c"},
-
+    {"id":1, "file":1, "city":"London","country":"United Kingdom","image":"unitedkingdom","ip":"3.10.207.142","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Sydney","country":"Australia","image":"australia","ip":"52.65.62.21","active":"true","signal":"b"},
+    {"id":3, "file":3, "city":"Tokyo","country":"Japan","image":"japan","ip":"3.112.20.101","active":"true","signal":"a"},
+    {"id":4, "file":4, "city":"Canada","country":"canada","image":"canada","ip":"15.222.10.243","active":"true","signal":"b"},
+    {"id":5, "file":5, "city":"Singapore","country":"Singapore","image":"singapore","ip":"54.169.72.152","active":"true","signal":"b"},
+    {"id":6, "file":6, "city":"Finland","country":"finland","image":"finland","ip":"35.203.80.255","active":"true","signal":"b"},
    
   ]
 }
