@@ -16,7 +16,8 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Sydney","country":"Australia","image":"australia","ip":"35.244.79.194","active":"true","signal":"c"}
+    {"id":0, "file":0, "city":"Sydney","country":"Australia","image":"australia","ip":"35.244.79.194","active":"true","signal":"c"},
+    {"id":1, "file":1, "city":"London","country":"United Kingdom","image":"unitedkingdom","ip":"3.10.207.142","active":"true","signal":"a"},
    
   ]
 }
