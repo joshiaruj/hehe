@@ -17,5 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Sydney","country":"Australia","image":"australia","ip":"35.244.79.194","active":"true","signal":"c"},   
+    {"id":1, "file":0, "city":"Las Vegas","country":"United States","image":"unitedstates","ip":"34.125.58.142","active":"true","signal":"b"},   
   ]
 }
