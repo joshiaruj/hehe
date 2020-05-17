@@ -20,6 +20,6 @@
     {"id":1, "file":0, "city":"Australia","country":"Australia","image":"australia","ip":"35.189.22.65","active":"true","signal":"a"},
     {"id":2, "file":0, "city":"United Kingdom","country":"United Kingdom","image":"unitedkingdom","ip":"34.89.64.217","active":"true","signal":"a"},
     {"id":3, "file":0, "city":"Canada","country":"Canada","image":"canada","ip":"34.95.39.18","active":"true","signal":"a"},
-    {"id":4, "file":0, "city":"Japan","country":"Tokyo","image":"japan","ip":"35.243.104.15","active":"true","signal":"b"},
+    {"id":4, "file":0, "city":"Japan","country":"Japan","image":"japan","ip":"35.243.104.15","active":"true","signal":"b"},
   ]
 }
