@@ -21,5 +21,6 @@
     {"id":2, "file":2, "city":"United Kingdom","country":"United Kingdom","image":"unitedkingdom","ip":"34.89.64.217","active":"true","signal":"a"},
     {"id":3, "file":3, "city":"Canada","country":"Canada","image":"canada","ip":"34.95.39.18","active":"true","signal":"a"},
     {"id":4, "file":4, "city":"Japan","country":"Japan","image":"japan","ip":"35.243.104.15","active":"true","signal":"b"},
+    {"id":5, "file":5, "city":"Germany","country":"Germany","image":"germany","ip":"34.107.54.156","active":"true","signal":"a"},
   ]
 }
