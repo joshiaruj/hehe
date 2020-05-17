@@ -18,6 +18,6 @@
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"34.125.46.175","active":"true","signal":"a"},
     {"id":1, "file":0, "city":"Australia","country":"Australia","image":"australia","ip":"35.189.22.65","active":"true","signal":"a"},
-    {"id":2, "file":0, "city":"United Kingdom","country":"United Kingdom","image":"unitedkingdom","ip":"34.89.64.217","active":"true","signal":"a"},
+    {"id":2, "file":0, "city":"United Kingdom","country":"United Kingdom","image":"unitedkingdom","ip":"34.89.64.217","active":"true","signal":"a"}
   ]
 }
