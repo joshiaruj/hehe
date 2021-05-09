@@ -17,5 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"104.198.73.35","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"India","country":"India","image":"india","ip":"104.198.73.35","active":"true","signal":"a"},
   ]
 }
