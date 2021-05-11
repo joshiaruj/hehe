@@ -17,7 +17,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"136.37.114.42","active":"true","signal":"a"},
-    {"id":1, "file":1, "city":"California","country":"California","image":"unitedstates","ip":"70.172.104.111","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"California","country":"California","image":"unitedstates","ip":"70.172.104.111","active":"true","signal":"a"},
     {"id":2, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"136.37.114.42","active":"true","signal":"a"},
     {"id":3, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"136.37.114.42","active":"true","signal":"a"},
 
