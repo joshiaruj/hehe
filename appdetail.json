@@ -16,6 +16,6 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Japan","country":"Japan","image":"japan","ip":"219.100.37.113","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Japan","country":"Japan","image":"unitedstates","ip":"136.37.114.42","active":"true","signal":"a"},
   ]
 }
